@@ -28,7 +28,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Entwickler, 
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=mroeb&show_icons=true&theme=radical)
 ![Top-Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=mroeb&layout=compact&theme=radical)
 
-<!-- Optional: GitHub-Streak-Statistiken hinzufügen -->
+
 ![GitHub-Streak](https://github-readme-streak-stats.herokuapp.com/?user=mroeb&theme=radical)
 
 ---
