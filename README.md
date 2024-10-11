@@ -7,10 +7,10 @@
 
 ## 🚀 About me
 
-- 🎂 16 Jahre alt
-- 😺 Ich  mag Katzen 🐈
-- 🌱 Zurzeit lerne ich **C# Entwicklung**
-- 📫 So erreichst du mich: **mikaroebers@proton.me**
+- 🎂 16 yo
+- 😺 catssss
+- 🌱 Im learning **Rust Developement**
+- 📫 You can E-Mail me: **mikaroebers@proton.me**
 
 ---
 
@@ -32,13 +32,6 @@
 
 
 ![GitHub-Streak](https://github-readme-streak-stats.herokuapp.com/?user=mroeb&theme=radical)
-
----
-## Funny shit
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Zufälliges Entwickler-Zitat](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 
