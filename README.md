@@ -8,7 +8,7 @@
 ## 🚀 About me
 
 - 🎂 16 yo
-- 😺 catssss
+- 😺 catsssss
 - 🌱 Im learning **Rust Development**
 - 📫 You can E-Mail me: **mikaroebers@proton.me**
 
