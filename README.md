@@ -22,6 +22,9 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![NVIM](https://img.shields.io/badge/-NVIM-447dac?style=flat-square&logo=neovim&logoColor=green)
+![JS](https://img.shields.io/badge/-JavaScript-f7e025?style=flat-square&logo=JavaScript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-47ba87?style=flat-square&logo=vue&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-e5532d?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
